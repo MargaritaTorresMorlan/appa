@@ -7,10 +7,10 @@
 		
 		<!-- verisonCode is optional and Android only -->
 		
-	<name>Datos del Dispositivo</name>
+	<name>Acciones del Dispositivo</name>
 	
 	<description>
-		Aplicacion que muestra los datos del Dispositivo
+		Aplicacion que muestra las acciones que realiza el Dispositivo
 	</description>
 	
 	<preference name="phonegap-version" value="3.1.0" />
